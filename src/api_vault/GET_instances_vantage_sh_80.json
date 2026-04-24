@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "url": "https://instances.vantage.sh/rds/__next._tree.txt?_rsc=1r34m",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "transfer-encoding": "chunked",
+            "cache-control": "max-age=14400, s-maxage=86400",
+            "content-encoding": "br",
+            "cf-cache-status": "HIT",
+            "age": "10670",
+            "connection": "keep-alive",
+            "cf-ray": "9f17c3e07a0a7629-BOM",
+            "date": "Fri, 24 Apr 2026 20:12:50 GMT",
+            "content-type": "text/plain",
+            "last-modified": "Fri, 24 Apr 2026 17:15:00 GMT",
+            "server": "cloudflare"
+        }
+    },
+    "payload": "No Payload",
+    "preview": ":HL[\"/_next/static/chunks/628a0efa796496d3.css\",\"style\"]\n:HL[\"/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n0:{\"buildId\":\"m8BUn4h1do49vyPsTOGjK\",\"tree\":{\"name\":\"\",\"paramType\":null,\"paramKey\":\"\",\"hasRuntimePrefetch\":false,\"slots\":{\"children\":{\"name\":\"rds\",\"paramType\":null,\"paramKey\":\"rds\",\"hasRuntimePrefetch\":false,\"slots\":{\"children\":{\"name\":\"__PAGE__\",\"paramType\":null,\"paramKey\":\"__PAGE__\",\"hasRuntimePrefetch\":false,\"slots\":null,\"isRootLayout\":false}},\"isRootLayout\":false}},\"isRootLayout\":true},\"staleTime\":300}\n"
+}

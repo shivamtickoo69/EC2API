@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "url": "https://instanceskv.vantage-api.com/3cd35aee6b388b69b4cbde7699f5deaf385bea78",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "content-encoding": "zstd",
+            "cf-cache-status": "HIT",
+            "age": "540",
+            "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=N53lVmbCjzk765eqEvnFY8mMJMNM%2BrwaO8zSiN1azISfkvGjQ8nOaS0mVEq5IRnutjATsgX4%2Fm6cTL2OA3J283XNCl%2BizGglQlh%2BhLmBxIqF%2Fk7grfRm4h6ACKGDe7R%2BJKTxThhBdQELzdDaz9w%3D\"}]}",
+            "access-control-allow-methods": "GET",
+            "alt-svc": "h3=\":443\"; ma=86400",
+            "date": "Fri, 24 Apr 2026 20:12:49 GMT",
+            "content-type": "application/json",
+            "last-modified": "Fri, 24 Apr 2026 20:03:48 GMT",
+            "access-control-allow-headers": "Content-Type",
+            "transfer-encoding": "chunked",
+            "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+            "cache-control": "public, max-age=604800",
+            "connection": "keep-alive",
+            "cf-ray": "9f17c3d84b8ec617-BOM",
+            "access-control-allow-origin": "*",
+            "server": "cloudflare"
+        }
+    },
+    "payload": "No Payload",
+    "preview": {
+        "version": 1,
+        "path": "/",
+        "filter": "",
+        "columns": [],
+        "pricingUnit": "instance",
+        "costDuration": "hourly",
+        "region": "ap-southeast-2",
+        "reservedTerm": "yrTerm1Standard.noUpfront",
+        "compareOn": false,
+        "selected": [],
+        "visibleColumns": {},
+        "sort": [],
+        "currency": "ALL"
+    }
+}

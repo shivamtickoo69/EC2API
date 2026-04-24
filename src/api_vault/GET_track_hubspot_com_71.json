@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "url": "https://track.hubspot.com/__ptq.gif?k=1&v=1.1&a=46929676&pu=https%3A%2F%2Finstances.vantage.sh%2F%3Fid%3D3cd35aee6b388b69b4cbde7699f5deaf385bea78&t=Amazon+EC2+Instance+Comparison&cts=1777061569161&sd=1280x720&ln=&__includeClient=null&cs=UTF-8&vi=57714d310bea449692574a29eccddb3f&nc=true&u=240754436.57714d310bea449692574a29eccddb3f.1777061569161.1777061569161.1777061569161.1&b=240754436.1.1777061569161",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "x-robots-tag": "none",
+            "cf-cache-status": "DYNAMIC",
+            "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=2sNj8cXt0WBU%2F9NkIoim4tR98RFc88k0O9SdXQF3SyAzDaFlnpD3t2UyM%2BzwBKYFDSzHyd2AyS0TKGyRRA2IJnl2JxJSnIeSqEB3T2wqYXv678pGIQwoWmaz0mmH%2B49WcNxy\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+            "x-content-type-options": "nosniff",
+            "server-timing": "hcid;desc=\"019dc11f-a4a1-724a-8010-458baa1a5940\", cfr;desc=\"9f17c3d9a005ffa6-IAD\"",
+            "p3p": "CP=\"NOI CUR ADM OUR NOR STA NID\"",
+            "date": "Fri, 24 Apr 2026 20:12:49 GMT",
+            "x-hubspot-correlation-id": "019dc11f-a4a1-724a-8010-458baa1a5940",
+            "content-type": "image/gif",
+            "vary": "origin, Accept-Encoding",
+            "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+            "cache-control": "no-cache, no-store, no-transform",
+            "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+            "connection": "keep-alive",
+            "access-control-allow-credentials": "false",
+            "cf-ray": "9f17c3d99a08ffa6-BOM",
+            "content-length": "45",
+            "server": "cloudflare"
+        }
+    },
+    "payload": "No Payload",
+    "preview": "GIF89a!,@;"
+}

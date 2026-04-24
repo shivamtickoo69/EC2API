@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-1PNRCKS3S4&gtm=45je64m2v9116535182z8864051984za20gzb864051984zd864051984&_p=1777061569175&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGA&are=1&cid=1752609076.1777061570&frm=0&pscdl=noapi&rcb=16&sr=1280x720&uaa=x86&uab=64&uafvl=HeadlessChrome%3B147.0.7727.15%7CNot.A%252FBrand%3B8.0.0.0%7CChromium%3B147.0.7727.15&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=0~115616985~115938465~115938469~117266400~117384406~117512543~118463262&sid=1777061569&sct=1&seg=0&dl=https%3A%2F%2Finstances.vantage.sh%2F%3Fid%3D3cd35aee6b388b69b4cbde7699f5deaf385bea78&dt=Amazon%20EC2%20Instance%20Comparison&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=2138",
+        "method": "POST",
+        "status": 204,
+        "headers": {
+            "cache-control": "no-cache, no-store, must-revalidate",
+            "pragma": "no-cache",
+            "cross-origin-resource-policy": "cross-origin",
+            "access-control-allow-credentials": "true",
+            "content-security-policy-report-only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:196:0",
+            "report-to": "{\"group\":\"ascnsrsggc:196:0\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:196:0\"}],}",
+            "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+            "access-control-allow-origin": "https://instances.vantage.sh",
+            "cross-origin-opener-policy-report-only": "same-origin; report-to=ascnsrsggc:196:0",
+            "content-length": "0",
+            "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+            "date": "Fri, 24 Apr 2026 20:12:50 GMT",
+            "content-type": "text/plain",
+            "server": "Golfe2"
+        }
+    },
+    "payload": "No Payload",
+    "preview": ""
+}

@@ -1,0 +1,62 @@
+{
+    "metadata": {
+        "url": "https://instances.vantage.sh/cdn-cgi/rum?",
+        "method": "POST",
+        "status": 204,
+        "headers": {
+            "access-control-max-age": "86400",
+            "connection": "keep-alive",
+            "access-control-allow-credentials": "true",
+            "access-control-allow-methods": "POST,OPTIONS",
+            "cf-ray": "9f17c3d56a2ebc9a-BOM",
+            "access-control-allow-origin": "https://instances.vantage.sh",
+            "date": "Fri, 24 Apr 2026 20:12:48 GMT",
+            "content-type": "text/plain",
+            "vary": "Origin",
+            "server": "cloudflare"
+        }
+    },
+    "payload": {
+        "memory": {
+            "totalJSHeapSize": 35100000,
+            "usedJSHeapSize": 29400000,
+            "jsHeapSizeLimit": 3760000000
+        },
+        "resources": [],
+        "referrer": "",
+        "eventType": 1,
+        "firstPaint": 732,
+        "firstContentfulPaint": 732,
+        "startTime": 1777061567797.3,
+        "versions": {
+            "fl": "2024.11.0",
+            "js": "2026.2.0",
+            "timings": 2
+        },
+        "pageloadId": "541fce3e-4ce6-41bb-8938-0f162ec59cef",
+        "location": "https://instances.vantage.sh/",
+        "nt": "navigate",
+        "timingsV2": {
+            "nextHopProtocol": "http/1.1",
+            "domainLookupStart": 70.09999999403954,
+            "domainLookupEnd": 102.69999998807907,
+            "connectStart": 102.69999998807907,
+            "connectEnd": 288.19999998807907,
+            "requestStart": 288.40000000596046,
+            "responseStart": 443.59999999403954,
+            "responseEnd": 516,
+            "domInteractive": 725.0999999940395,
+            "domComplete": 1278.4000000059605,
+            "loadEventStart": 1278.699999988079,
+            "loadEventEnd": 1278.9000000059605,
+            "finalResponseHeadersStart": 443.59999999403954,
+            "firstInterimResponseStart": 0,
+            "transferSize": 484218,
+            "decodedBodySize": 2385601
+        },
+        "dt": "",
+        "siteToken": "f2f8127e37dc46afada63c163341dad1",
+        "st": 2
+    },
+    "preview": ""
+}

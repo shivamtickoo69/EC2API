@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "url": "https://instances.vantage.sh/cdn-cgi/trace",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "transfer-encoding": "chunked",
+            "content-encoding": "br",
+            "connection": "keep-alive",
+            "cf-ray": "9f17c3d5eac0bc9a-BOM",
+            "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "access-control-allow-origin": "*",
+            "date": "Fri, 24 Apr 2026 20:12:48 GMT",
+            "if-modified-since": "off",
+            "content-type": "text/plain",
+            "server": "cloudflare"
+        }
+    },
+    "payload": "No Payload",
+    "preview": "fl=578f200\nh=instances.vantage.sh\nip=167.103.186.98\nts=1777061568.000\nvisit_scheme=https\nuag=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.7727.15 Safari/537.36\ncolo=BOM\nsliver=none\nhttp=http/1.1\nloc=IN\ntls=TLSv1.3\nsni=plaintext\nwarp=off\ngateway=off\nrbi=off\nkex=P-256\n"
+}

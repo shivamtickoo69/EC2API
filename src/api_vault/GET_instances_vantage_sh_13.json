@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "url": "https://instances.vantage.sh/_next/static/chunks/1aeda09c20caa4b1.js",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "transfer-encoding": "chunked",
+            "cache-control": "max-age=14400, s-maxage=86400",
+            "content-encoding": "br",
+            "cf-cache-status": "HIT",
+            "age": "10670",
+            "connection": "keep-alive",
+            "cf-ray": "9f17c3d1683d44f0-BOM",
+            "date": "Fri, 24 Apr 2026 20:12:48 GMT",
+            "content-type": "text/javascript",
+            "last-modified": "Fri, 24 Apr 2026 17:14:57 GMT",
+            "server": "cloudflare"
+        }
+    },
+    "payload": "No Payload",
+    "preview": ";!function(){try { var e=\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof global?global:\"undefined\"!=typeof window?window:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]=\"e97769e2-e310-03b5-8d0c-4ef0a7ee1b67\")}catch(e){}}();\n(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push([\"object\"==typeof document?document.currentScript:void 0,80749,e=>{\"use strict\";function s(e,s){let t=s.pricing,n={};for(let s of t){let t=e[s[0]],r={};for(let a of s[1]){let s=e[a[0]];if(\"number\"==typeof a[1][0]){let c=e[a[1][0]],i=e[a[1][1]];r[s]=c===t?r[i]:n[c][i];continue}let c={};for(let s of a[1]){let t=e[s[0]];if(\"reserved\"===t){let n={};for(let t of s[1])n[e[t[0]]]=t[1];c[t]=n}else c[t]=s[1]}r[s]=c}n[t]=r}return s.pricing=n,s}e.s([\"default\",()=>s])},88189,e=>{\"use strict\";var s=e.i(47167),t=e.i(43476),n=e.i(52146),r=e.i(30897),a=e.i(13288),c=e.i(71645),i=e.i(81774),l=e.i(69225),o=e.i(33741);function m(e){let m,u=(0,c.useMemo)(()=>{if(e.compressedInstances){let s=e.compressedInstances.shift();return Array.isArray(s)?e.compressedInstances.map(e=>(0,i.default)(e,s)):(e.compressedInstances.unshift(s),e.compressedInstances)}return null},[e.compressedInstances,e.instances]);m=e.compressedInstances?(0,n.useInstanceData)(e.compressedDataPathTemplate,u):e.instances;let d=\"1\"===s.default.env.NEXT_PUBLIC_REMOVE_ADVERTS?\"h-[calc(100vh-6em)]\":\"h-[calc(100vh-8.5em)]\";return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(o.default,{marketingData:e.marketingData,instanceGroup:`${e.columnAtomKey}-home`,gpu:!1}),(0,t.jsxs)(\"main\",{className:`${d} overflow-y-hidden flex flex-col`,children:[(0,t.jsx)(a.default,{columnAtomKey:e.columnAtomKey,regions:e.regions,reservedTermOptions:(0,l.reservedTermOptions)(e.savingsPlanSupported),currencies:e.currencies,reservedLabel:e.savingsPlanSupported?\"Reserved/Savings Plan\":void 0}),(0,t.jsx)(\"div\",{className:\"flex-1 min-h-0\",children:(0,t.jsx)(r.default,{instances:m,instanceCount:e.instanceCount??m.length,columnAtomKey:e.columnAtomKey})})]})]})}e.s([\"default\",()=>m])},52441,e=>{e.v(s=>Promise.all([\"static/chunks/432ff80615241049.js\"].map(s=>e.l(s))).then(()=>s(68428)))},80661,e=>{e.v(s=>Promise.all([\"static/chunks/ad8c0324bbcb9684.js\"].map(s=>e.l(s))).then(()=>s(17613)))}]);\n\n//# debugId=e97769e2-e310-03b5-8d0c-4ef0a7ee1b67\n//# sourceMappingURL=3e522c9b4be62b6d.js.map"
+}

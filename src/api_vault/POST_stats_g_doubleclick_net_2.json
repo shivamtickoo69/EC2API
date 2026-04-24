@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-1PNRCKS3S4&cid=1752609076.1777061570&gtm=45je64m2v9116535182z8864051984za20gzb864051984zd864051984&rcb=16&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=0~115616985~115938465~115938469~117266400~117384406~117512543~118463262",
+        "method": "POST",
+        "status": 204,
+        "headers": {
+            "cache-control": "no-cache, no-store, must-revalidate",
+            "pragma": "no-cache",
+            "cross-origin-resource-policy": "cross-origin",
+            "access-control-allow-credentials": "true",
+            "content-security-policy-report-only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:164:0",
+            "report-to": "{\"group\":\"ascnsrsggc:164:0\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:164:0\"}],}",
+            "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+            "access-control-allow-origin": "https://instances.vantage.sh",
+            "cross-origin-opener-policy-report-only": "same-origin; report-to=ascnsrsggc:164:0",
+            "content-length": "0",
+            "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+            "date": "Fri, 24 Apr 2026 20:12:50 GMT",
+            "content-type": "text/plain",
+            "server": "Golfe2"
+        }
+    },
+    "payload": "No Payload",
+    "preview": ""
+}

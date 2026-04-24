@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "url": "blob:https://instances.vantage.sh/fbf4d10e-e20c-4495-87da-f6c7f43d605c",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "content-type": "text/javascript",
+            "content-length": "342"
+        }
+    },
+    "payload": "No Payload",
+    "preview": "self.TURBOPACK_WORKER_LOCATION = \"https://instances.vantage.sh\";\nself.TURBOPACK_CHUNK_SUFFIX = \"\";\nself.TURBOPACK_NEXT_CHUNK_URLS = [\n  \"/_next/static/chunks/turbopack-d1e39c2530f07eca.js\",\n  \"/_next/static/chunks/8b352cdbbe763751.js\"\n];\nimportScripts(...self.TURBOPACK_NEXT_CHUNK_URLS.map(c => self.TURBOPACK_WORKER_LOCATION + c).reverse());"
+}

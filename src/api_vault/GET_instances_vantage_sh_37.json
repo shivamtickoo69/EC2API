@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "url": "https://instances.vantage.sh/toasts.json",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "transfer-encoding": "chunked",
+            "cache-control": "max-age=14400, s-maxage=86400",
+            "content-encoding": "br",
+            "cf-cache-status": "HIT",
+            "etag": "W/\"2c5abe9050e15443f3db7cc4b8e8daf5\"",
+            "age": "10671",
+            "connection": "keep-alive",
+            "cf-ray": "9f17c3d5e8ae44f0-BOM",
+            "date": "Fri, 24 Apr 2026 20:12:48 GMT",
+            "content-type": "application/json",
+            "server": "cloudflare"
+        }
+    },
+    "payload": "No Payload",
+    "preview": [
+        {
+            "campaign_id": "instances_api",
+            "message": "New instances API & SDKs available!\nAccess compute pricing and specifications across AWS, Azure, and GCP programmatically.",
+            "url": "https://www.vantage.sh/blog/instances-api-sdk/?utm_campaign=Instances%20Blog%20Clicks&utm_source=toast"
+        }
+    ]
+}

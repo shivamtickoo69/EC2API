@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "url": "https://instances.vantage.sh/_next/static/chunks/b0dd8860431f540b.js",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "transfer-encoding": "chunked",
+            "cache-control": "max-age=14400, s-maxage=86400",
+            "content-encoding": "br",
+            "cf-cache-status": "HIT",
+            "age": "12993",
+            "connection": "keep-alive",
+            "cf-ray": "9f17c3e628ad0bb8-BOM",
+            "date": "Fri, 24 Apr 2026 20:12:51 GMT",
+            "content-type": "text/javascript",
+            "last-modified": "Fri, 24 Apr 2026 16:36:18 GMT",
+            "server": "cloudflare"
+        }
+    },
+    "payload": "No Payload",
+    "preview": ";!function(){try { var e=\"undefined\"!=typeof globalThis?globalThis:\"undefined\"!=typeof global?global:\"undefined\"!=typeof window?window:\"undefined\"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]=\"84ea375d-e518-3795-19da-b5846d7acc5f\")}catch(e){}}();\n(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push([\"object\"==typeof document?document.currentScript:void 0,80749,e=>{\"use strict\";function t(e,t){let r=t.pricing,a={};for(let t of r){let r=e[t[0]],l={};for(let n of t[1]){let t=e[n[0]];if(\"number\"==typeof n[1][0]){let i=e[n[1][0]],s=e[n[1][1]];l[t]=i===r?l[s]:a[i][s];continue}let i={};for(let t of n[1]){let r=e[t[0]];if(\"reserved\"===r){let a={};for(let r of t[1])a[e[r[0]]]=r[1];i[r]=a}else i[r]=t[1]}l[t]=i}a[r]=l}return t.pricing=a,t}e.s([\"default\",()=>t])},98665,e=>{\"use strict\";var t=e.i(47167),r=e.i(43476),a=e.i(13288),l=e.i(30897),n=e.i(52146),i=e.i(81774),s=e.i(71645),c=e.i(33741);function o({instanceCount:e,regions:o,compressedDataPathTemplate:u,compressedInstances:f,marketingData:d,currencies:m}){let h=(0,s.useMemo)(()=>{let e=f.shift();return Array.isArray(e)?f.map(t=>(0,i.default)(t,e)):(f.unshift(e),f)},[f]),b=(0,n.useInstanceData)(u,h),y=\"1\"===t.default.env.NEXT_PUBLIC_REMOVE_ADVERTS?\"h-[calc(100vh-6em)]\":\"h-[calc(100vh-8.5em)]\";return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(c.default,{marketingData:d,instanceGroup:\"azure-home\",gpu:!1}),(0,r.jsxs)(\"main\",{className:`${y} overflow-y-hidden flex flex-col`,children:[(0,r.jsx)(a.default,{currencies:m,columnAtomKey:\"azure\",regions:{local_zone:{},main:o,wavelength:{},china:{}},ecuRename:\"ACU\",reservedTermOptions:[{value:\"yrTerm1Standard.allUpfront\",label:\"No Hybrid Benefit - 1 Year\"},{value:\"yrTerm3Standard.allUpfront\",label:\"No Hybrid Benefit - 3 Year\"},{value:\"yrTerm1Standard.hybridbenefit\",label:\"Hybrid Benefit - 1 Year\"},{value:\"yrTerm3Standard.hybridbenefit\",label:\"Hybrid Benefit - 3 Year\"}],reservedLabel:\"Hybrid Benefit\"}),(0,r.jsx)(\"div\",{className:\"flex-1 min-h-0\",children:(0,r.jsx)(l.default,{instances:b,instanceCount:e,columnAtomKey:\"azure\",ecuRename:\"ACU\"})})]})]})}e.s([\"default\",()=>o])},80661,e=>{e.v(t=>Promise.all([\"static/chunks/ad8c0324bbcb9684.js\"].map(t=>e.l(t))).then(()=>t(17613)))},52441,e=>{e.v(t=>Promise.all([\"static/chunks/432ff80615241049.js\"].map(t=>e.l(t))).then(()=>t(68428)))}]);\n\n//# debugId=84ea375d-e518-3795-19da-b5846d7acc5f\n//# sourceMappingURL=281cc8d5e06d4d87.js.map"
+}

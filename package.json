@@ -1,0 +1,14 @@
+{
+  "name": "api-network-audit-assignment",
+  "version": "1.0.0",
+  "description": "Automated UI testing and Network API interception tool",
+  "type": "module",
+  "main": "src/scrape-ui.js",
+  "scripts": {
+    "start": "node src/scrape-ui.js",
+    "install-deps": "npm install && npx playwright install"
+  },
+  "dependencies": {
+    "playwright": "^1.43.0"
+  }
+}

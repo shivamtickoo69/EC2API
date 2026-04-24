@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "url": "https://instances.vantage.sh/marketing.json",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "transfer-encoding": "chunked",
+            "cache-control": "max-age=14400, s-maxage=86400",
+            "content-encoding": "br",
+            "cf-cache-status": "HIT",
+            "etag": "W/\"adef55c8c41ce5841025ae75b622654d\"",
+            "age": "6556",
+            "connection": "keep-alive",
+            "cf-ray": "9f17c3d5eac5bc9a-BOM",
+            "date": "Fri, 24 Apr 2026 20:12:48 GMT",
+            "content-type": "application/json",
+            "server": "cloudflare"
+        }
+    },
+    "payload": "No Payload",
+    "preview": {
+        "ctas": {
+            "generic": {
+                "title": "Trying to save on instances? Book a demo to see where you're overspending.",
+                "cta_text": "",
+                "cta_url": "https://www.vantage.sh/lp/aws-instances-demo?utm_campaign=Instances%20Blog%20Clicks&utm_source=aws-banner&utm_term=ec2-trying-to-save"
+            },
+            "azure-instances": {
+                "title": "Trying to save on VMs? Book a demo to see where you're overspending.",
+                "cta_text": "",
+                "cta_url": "https://vantage.sh/lp/azure-instances-demo?utm_campaign=Instances%20Blog%20Clicks&utm_source=azure-banner"
+            },
+            "gcp-instances": {
+                "title": "Trying to save on VMs? Book a demo to see where you're overspending.",
+                "cta_text": "",
+                "cta_url": "https://vantage.sh/lp/gcp-instances-demo?utm_campaign=Instances%20Blog%20Clicks&utm_source=gcp-banner"
+            },
+            "aws-home": {
+                "title": "Compare LLM models: Explore pricing, specs, and benchmarks at vantage.sh/models.",
+                "cta_text": "",
+                "cta_url": "https://www.vantage.sh/models?utm_campaign=Instances%20Blog%20Clicks&utm_source=aws-banner"
+            },
+            "azure-home": {
+                "title": "Compare LLM models: Explore pricing, specs, and benchmarks at vantage.sh/models.",
+                "cta_text": "",
+                "cta_url": "https://www.vantage.sh/models?utm_campaign=Instances%20Blog%20Clicks&utm_source&utm_source=azure-banner"
+            },
+            "gcp-home": {
+                "title": "Compare LLM models: Explore pricing, specs, and benchmarks at vantage.sh/models.",
+                "cta_text": "",
+                "cta_url": "https://www.vantage.sh/models?utm_campaign=Instances%20Blog%20Clicks&utm_source&utm_source=gcp-banner"
+            }
+        },
+        "promotions": {
+            "generic": [
+                {
+                    "cta": "generic"
+                }
+            ],
+            "azure-instances": [
+                {
+                    "cta": "azure-instances"
+                }
+            ],
+            "gcp-instances": [
+                {
+                    "cta": "gcp-instances"
+                }
+            ],
+            "ec2-home": [
+                {
+                    "cta": "aws-home"
+                }
+            ],
+            "cache-home": [
+                {
+                    "cta": "aws-home"
+                }
+            ],
+            "rds-home": [
+                {
+                    "cta": "aws-home"
+                }
+            ],
+            "opensearch-home": [
+                {
+                    "cta": "aws-home"
+                }
+            ],
+            "redshift-home": [
+                {
+                    "cta": "aws-home"
+                }
+            ],
+            "azure-home": [
+                {
+                    "cta": "azure-home"
+                }
+            ],
+            "gcp-home": [
+                {
+                    "cta": "gcp-home"
+                }
+            ]
+        }
+    }
+}

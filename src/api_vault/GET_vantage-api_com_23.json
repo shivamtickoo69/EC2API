@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "url": "https://vantage-api.com/i.js",
+        "method": "GET",
+        "status": 200,
+        "headers": {
+            "x-robots-tag": "none",
+            "access-control-max-age": "600",
+            "content-encoding": "zstd",
+            "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xaDPp2heKkhBu8mGx62qhTKCMpXM7XJCNC1XJ%2BvhtcK986YQwAqeC59AEMQvyvR%2F6qaERtQdkYf4nzCjKYV3IPVCNcfv0RlrHv8oDwOUAZOvGF773q70TNmbbbmJ%2FNAIc1A%3D\"}]}",
+            "access-control-allow-methods": "GET, HEAD, POST, OPTIONS",
+            "alt-svc": "h3=\":443\"; ma=86400",
+            "date": "Fri, 24 Apr 2026 20:12:48 GMT",
+            "content-type": "application/javascript",
+            "vary": "Origin",
+            "access-control-allow-headers": "Content-Type, Set-Cookie, Cache-Control",
+            "transfer-encoding": "chunked",
+            "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+            "connection": "keep-alive",
+            "access-control-allow-credentials": "true",
+            "cf-ray": "9f17c3d14e123f6d-BOM",
+            "access-control-allow-origin": "https://vantage-api.com",
+            "server": "cloudflare"
+        }
+    },
+    "payload": "No Payload",
+    "preview": "try{(function(w,d){!function(F,G,H,I){if(F.zaraz)console.error(\"zaraz is loaded twice\");else{F[H]=F[H]||{};F[H].executed=[];F.zaraz={deferred:[],listeners:[]};F.zaraz._v=\"5882\";F.zaraz._n=\"\";F.zaraz.q=[];F.zaraz._f=function(J){return async function(){var K=Array.prototype.slice.call(arguments);F.zaraz.q.push({m:J,a:K})}};for(const L of[\"track\",\"set\",\"debug\"])F.zaraz[L]=F.zaraz._f(L);F.zaraz.init=()=>{var M=G.getElementsByTagName(I)[0],N=G.createElement(I),O=G.getElementsByTagName(\"title\")[0];F[H].c=G.cookie;O&&(F[H].t=G.getElementsByTagName(\"title\")[0].text);F[H].x=Math.random();F[H].w=F.screen.width;F[H].h=F.screen.height;F[H].j=F.innerHeight;F[H].e=F.innerWidth;F[H].l=F.location.href;F[H].r=G.referrer;F[H].k=F.screen.colorDepth;F[H].n=G.characterSet;F[H].o=(new Date).getTimezoneOffset();if(F.dataLayer)for(const P of Object.entries(Object.entries(dataLayer).reduce((Q,R)=>({...Q[1],...R[1]}),{})))zaraz.set(P[0],P[1],{scope:\"page\"});F[H].q=[];for(;F.zaraz.q.length;){const S=F.zaraz.q.shift();F[H].q.push(S)}N.defer=!0;for(const T of[localStorage,sessionStorage])Object.keys(T||{}).filter(V=>V.startsWith(\"_zaraz_\")).forEach(U=>{try{F[H][\"z_\"+U.slice(7)]=JSON.parse(T.getItem(U))}catch{F[H][\"z_\"+U.slice(7)]=T.getItem(U)}});N.referrerPolicy=\"origin\";N.src=\"https://vantage-api.com/s.js?z=\"+btoa(encodeURIComponent(JSON.stringify(F[H])));M.parentNode.insertBefore(N,M)};[\"complete\",\"interactive\"].includes(G.readyState)?zaraz.init():F.addEventListener(\"DOMContentLoaded\",zaraz.init)}}(w,d,\"zarazData\",\"script\");window.zaraz._p=async bO=>new Promise(bP=>{if(bO){bO.e&&bO.e.forEach(bQ=>{try{const bR=d.querySelector(\"script[nonce]\"),bS=bR?.nonce||bR?.getAttribute(\"nonce\"),bT=d.createElement(\"script\");bS&&(bT.nonce=bS);bT.innerHTML=bQ;bT.onload=()=>{d.head.removeChild(bT)};d.head.appendChild(bT)}catch(bU){console.error(`Error executing script: ${bQ}\\n`,bU)}});Promise.allSettled((bO.f||[]).map(bV=>fetch(bV[0],bV[1])))}bP()});zaraz._p({\"e\":[\"(function(w,d){{(function(w,d){})(window, document)}})(window,document)\"]});})(window,document)}catch(e){throw fetch(\"https://vantage-api.com/t\"),e;};"
+}
